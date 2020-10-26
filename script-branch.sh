@@ -20,6 +20,6 @@ cd msm/techpack/display/
 git checkout -B $BRANCH
 cd ../../..
 
-cd msm/techpack/data/
-git checkout -B $BRANCH
-cd ../../..
+#cd msm/techpack/data/
+#git checkout -B $BRANCH
+#cd ../../..

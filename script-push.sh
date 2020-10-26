@@ -20,6 +20,6 @@ cd msm/techpack/display/
 git push
 cd ../../..
 
-cd msm/techpack/data/
-git push
-cd ../../..
+#cd msm/techpack/data/
+#git push
+#cd ../../..

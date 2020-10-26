@@ -31,7 +31,7 @@ cd msm/techpack/display/
 git checkout $BRANCH
 cd ../../..
 
-git clone $GIT_PATH_FORK/google-msm-data-kernel.git msm/techpack/data
-cd msm/techpack/data/
-git checkout $BRANCH
-cd ../../..
+#git clone $GIT_PATH_FORK/google-msm-data-kernel.git msm/techpack/data
+#cd msm/techpack/data/
+#git checkout $BRANCH
+#cd ../../..

@@ -20,6 +20,6 @@ cd msm/techpack/display/
 git push --set-upstream origin $BRANCH
 cd ../../..
 
-cd msm/techpack/data/
-git push --set-upstream origin $BRANCH
-cd ../../..
+#cd msm/techpack/data/
+#git push --set-upstream origin $BRANCH
+#cd ../../..
